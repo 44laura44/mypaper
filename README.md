@@ -1,5 +1,5 @@
 # mypaper
-software-carpentry-course paper and even more changes hehe
+Software-Carpentry-Course paper, minor modifications + even more changes
 
 ## Abstract
 I need to add something here.
